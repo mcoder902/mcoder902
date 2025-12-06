@@ -1,20 +1,22 @@
 <div align="center">
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF2D20&center=true&vCenter=true&width=435&lines=Backend+Architect;Laravel+%26+PHP+Expert;Network+%26+Security+Entusiast;API+Designer+(REST+%2F+GraphQL)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF2D20&center=true&vCenter=true&width=500&lines=Backend+Architect;Laravel+%26+PHP+Expert;Network+%26+Security;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
-</div>
 
-### Hi there 👋, my name is morteza
-#### I am BackEnd Developer
+  <br>
 
-<div align="center">
+  <h3>👋 Hi there, I'm Morteza!</h3>
+  <p>
+     یک توسعه‌دهنده <b>Backend</b> با تمرکز بر امنیت و معماری سیستم.<br>
+     دنیای من ترکیبی از کدهای <b>PHP/Laravel</b> و خط فرمان <b>Linux</b> است.
+  </p>
 
-
-<br><br>
+  <br>
 
   <h3 align="center">🚀 Main Stack (Backend & Server)</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,python,docker,apache,linux&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,python,docker,linux&theme=dark&perline=5" />
   </a>
 
   <br>
@@ -34,7 +36,8 @@
   <br><br>
 
   <img src="https://img.shields.io/badge/Blade_Engine-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Restful_API-000000?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/Network_Security-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Server-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_Security-181717?style=for-the-badge&logo=linux&logoColor=white" />
 
 </div>

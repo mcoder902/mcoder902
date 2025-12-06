@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Laravel+Developer;Security+Enthusiast;Full+Stack+Magician" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF2D20&center=true&vCenter=true&width=435&lines=Backend+Architect;Laravel+%26+PHP+Expert;Network+%26+Security+Entusiast;API+Designer+(REST+%2F+GraphQL)" alt="Typing SVG" />
+  </a>
 </div>
 
 ### Hi there 👋, my name is morteza
@@ -7,9 +9,7 @@
 
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF2D20&center=true&vCenter=true&width=435&lines=Backend+Architect;Laravel+%26+PHP+Expert;Network+%26+Security+Entusiast;API+Designer+(REST+%2F+GraphQL)" alt="Typing SVG" />
-  </a>
+
 
   <br><br>
 
